@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/darcyclarke/npm-package-playground"
+    "url": "https://gitlab.com/darcyclarke/npm-package-playground"
   },
   "scripts": {},
   "keywords": [],
